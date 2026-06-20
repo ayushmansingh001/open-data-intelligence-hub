@@ -54,4 +54,4 @@ jobs:
             await browser.close();
             console.log("Streamlit app opened successfully.");
           })();
-          EOFgit status
+          EOF
